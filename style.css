@@ -1,1 +1,18 @@
 /*CSS styling*/
+
+body {
+    background-color: rgb(218, 180, 236);
+    font-family: "Courier New", "Monaco", "Times New Roman";
+}
+
+.ing {
+    background-color: aqua;
+}
+
+.desc {
+    background-color: brown;
+}
+
+.steps {
+    background-color: pink;
+}
