@@ -16,3 +16,7 @@ body {
 .steps {
     background-color: pink;
 }
+
+#centre {
+    text-align: center;
+}
